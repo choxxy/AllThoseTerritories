@@ -4,6 +4,8 @@ AllThoseTerritories is a strategy game similar to the board game [Risk](https://
 
 This project was the last task of a programming lecture ([Programmkonstruktion](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1247&dsrid=67&courseNr=185A79)) at the Vienna University of Technology in the winter term 2015.
 
+![screenshot](https://github.com/lukas-zronek/screenshots/blob/master/AllThoseTerritories/mainwindow.png "Screenshot of AllThoseTerritories")
+
 ## License
 
 The Java source code is released under [GNU General Public License v3.0](https://github.com/lukas-zronek/AllThoseTerritories/blob/master/LICENSE).
