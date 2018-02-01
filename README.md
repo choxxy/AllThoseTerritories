@@ -6,6 +6,26 @@ This project was the last task of a programming lecture ([Programmkonstruktion](
 
 ![screenshot](https://github.com/lukas-zronek/screenshots/blob/master/AllThoseTerritories/mainwindow.png "Screenshot of AllThoseTerritories")
 
+## Building
+
+**Requirements**
+
+Java Development Kit (JDK) and GNU make
+
+**Compile**
+
+Open a terminal and run:
+
+```
+make
+```
+
+**Run**
+
+```
+java -jar AllThoseTerritories.jar
+```
+
 ## License
 
 The Java source code is released under [GNU General Public License v3.0](https://github.com/lukas-zronek/AllThoseTerritories/blob/master/LICENSE).
