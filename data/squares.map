@@ -1,0 +1,17 @@
+patch-of The First 20 20 70 20 70 70 20 70
+patch-of The Second 120 20 170 20 170 70 120 70
+patch-of The Third 90 150 140 150 140 200 90 200
+patch-of The Fourth 120 320 170 320 170 370 120 370
+patch-of The Fifth 420 520 470 520 470 570 420 570
+patch-of The Sixth 720 520 770 520 770 570 720 570
+capital-of The First 45 45
+capital-of The Second 145 45
+capital-of The Third 115 175
+capital-of The Fourth 145 345
+capital-of The Fifth 445 545
+capital-of The Sixth 745 545
+neighbors-of The First : The Second
+neighbors-of The Second : The Third
+neighbors-of The Third : The Fourth
+neighbors-of The Fourth : The Fifth
+neighbors-of The Fifth : The Sixth
